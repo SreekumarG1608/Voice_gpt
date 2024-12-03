@@ -1,0 +1,7 @@
+streamlit==1.23.1
+openai==0.27.8
+langchain==0.0.191
+openai-whisper==20230314
+streamlit-audiorecorder==0.0.2
+elevenlabs==0.2.18
+loguru==0.7.0
